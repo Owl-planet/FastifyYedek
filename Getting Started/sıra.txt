@@ -1,0 +1,5 @@
+└── plugins (from the Fastify ecosystem)
+└── your plugins (your custom plugins)
+└── decorators
+└── hooks
+└── your services
